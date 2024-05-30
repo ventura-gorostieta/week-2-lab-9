@@ -36,6 +36,7 @@ The platform has been experiencing challenges with scaling during high-traffic p
 
 > [!TIP]
 > **Clic al enlace para ver la solución del laboratorio. :**
+> **Descargar el documento word.**
 
 ## Diagrama de Arquitectura:
 E-commerce:
