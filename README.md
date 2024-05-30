@@ -31,3 +31,15 @@ The platform has been experiencing challenges with scaling during high-traffic p
 ## Implementation Simulation:
 * Migration Roadmap: Develop a detailed plan for migrating the identified monolithic components to microservices. This plan should include prioritization of services to be migrated, identification of dependencies, and a strategy for data migration.
 * Architecture Documentation: Document the proposed microservices architecture, illustrating the interaction between services and the migration steps. Include a brief narrative explaining the rationale behind key decisions.
+
+[Ver Solución Completa : E-commerce system](./Lab-9_ms_migration_Ventura-GorostietaValentin.docx)
+
+> [!TIP]
+> **Clic al enlace para ver la solución del laboratorio. :**
+
+## Diagrama de Arquitectura:
+E-commerce:
+
+![spei-core - migración cuentas CLABE - Page 6](https://github.com/ventura-gorostieta/week-2-lab-9/assets/97199485/8742a8be-8853-48da-bb6b-a8b4ba7cecfe)
+
+
